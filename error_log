@@ -1,0 +1,358 @@
+[26-Dec-2021 16:25:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/shahjibazar/demo in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[26-Dec-2021 16:25:39 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/shahjibazar/demo in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[26-Dec-2021 16:26:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/shahjibazar/demo in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[26-Dec-2021 16:27:12 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/shahjibazar/demo in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[26-Dec-2021 16:28:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/shahjibazar/demo in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Feb-2022 12:07:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shahjibazar_shop.languages' doesn't exist in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php:359
+Stack trace:
+#0 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php(359): PDO->prepare('select * from `...')
+#1 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php(696): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php(663): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php(367): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/shahjibazar/demo. in /home/shahjibazar/demo.shahjibazar.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[08-Feb-2022 10:01:06 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shahjibazar/demo.shahjibazar.com/app/Http/Controllers/ProductController.php on line 24
+[08-Feb-2022 10:01:18 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shahjibazar/demo.shahjibazar.com/app/Http/Controllers/ProductController.php on line 24
+[08-Feb-2022 10:02:35 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shahjibazar/demo.shahjibazar.com/app/Http/Controllers/ProductController.php on line 24
+[08-Feb-2022 10:02:51 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shahjibazar/demo.shahjibazar.com/app/Http/Controllers/ProductController.php on line 24
+[08-Feb-2022 10:04:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shahjibazar/demo.shahjibazar.com/app/Http/Controllers/ProductController.php on line 24
+[20-Mar-2022 05:17:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:17:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:17:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:17:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[20-Mar-2022 05:18:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConn in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:47 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:47 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:47 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:47 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:32:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:33:13 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:33:13 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_cosmet...', 'softwrgn_cosmet...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFacto in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:54:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:54:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:42 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:42 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:49 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:50 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:57:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:23 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:23 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:48 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 14:59:48 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:03:50 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:03:50 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:03:56 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:03:56 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:51 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:53 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:53 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:04:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:07:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[18-Apr-2022 15:07:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'nagarhut_nagarhut'@'localhost' (using password: YES) in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#1 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nagarhut_nagarh...', 'nagarhut_nagarh...', Array)
+#2 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework in /home3/softwrgn/courier.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[06-Jun-2022 15:22:30 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#1 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#2 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/frame in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[06-Jun-2022 15:22:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#1 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#2 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/frame in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
+[06-Jun-2022 15:22:42 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#1 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nagarh...', 'softwrgn_nagarh...', Array)
+#2 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/frame in /home3/softwrgn/portfolio.softcreation.tech/nagarhut/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 703
